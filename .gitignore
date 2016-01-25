@@ -1,5 +1,4 @@
 /Debug/*
-!/src/HEFTMC.cpp
-!*.hpp
-!*.h
-!README.md
+.cproject
+.project
+
